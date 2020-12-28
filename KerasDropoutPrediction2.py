@@ -5,7 +5,7 @@ import scipy as sc
 
 class DropoutPrediction:
 
-    # dropout mask fixed....maybe fix random seed for dropout ?
+    # dropout mask fixed
     def __init__(self, model):
         self.f = tf.keras.backend.function(
                 [model.layers[0].input,
@@ -32,7 +32,7 @@ class DropoutPrediction:
             if remainder == 0:
                 epoch_result=temp_result
             else:
-                last_batch_x= x[quitient*batch_size:] # 딱 떨어질때 empty 라서 inference할때 error
+                last_batch_x= x[quitient*batch_size:] 
                 epoch_result=np.concatenate((temp_result, self.f([last_batch_x,1])[0]), axis=0)
 
             result.append(epoch_result)
