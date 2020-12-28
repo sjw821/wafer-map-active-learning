@@ -9,14 +9,14 @@ This is the code for our paper:
 
 ## Citation
 ```
-@article{shim2020active,  
-  title={Active Learning of Convolutional Neural Network for Cost-Effective Wafer Map Pattern Classification},   
-  author={Shim, Jaewoong and Kang, Seokho and Cho, Sungzoon},   
-  journal={IEEE Transactions on Semiconductor Manufacturing},   
-  volume={33},   
-  number={2},   
-  pages={258--266},   
-  year={2020},   
-  publisher={IEEE}   
-}   
+@article{shim2020active,
+  title={Active Learning of Convolutional Neural Network for Cost-Effective Wafer Map Pattern Classification},
+  author={Shim, Jaewoong and Kang, Seokho and Cho, Sungzoon},
+  journal={IEEE Transactions on Semiconductor Manufacturing},
+  volume={33},
+  number={2},
+  pages={258--266},
+  year={2020},
+  publisher={IEEE}
+}
 ```
