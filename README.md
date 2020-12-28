@@ -1,5 +1,5 @@
 # Wafer-Map-Active-Learning
-This is the code for our paper:
+This is the code for our paper:   
 [Active Learning of Convolutional Neural Network for Cost-Effective Wafer Map Pattern Classification](https://ieeexplore.ieee.org/abstract/document/9003245), by Jaewoong Shim, Seokho Kang, and Sungzoon Cho, IEEE Transactions on Semiconductor Manufacturing, 2020.
 
 
