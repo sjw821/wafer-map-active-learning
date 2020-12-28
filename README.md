@@ -8,15 +8,15 @@ This is the code for our paper:
 2. and you can start an experiment using run_topk_div_val.py
 
 ## Citation
-'''
-@article{shim2020active,  
-  title={Active Learning of Convolutional Neural Network for Cost-Effective Wafer Map Pattern Classification},
-  author={Shim, Jaewoong and Kang, Seokho and Cho, Sungzoon},
-  journal={IEEE Transactions on Semiconductor Manufacturing},
-  volume={33},
-  number={2},
-  pages={258--266},
-  year={2020},
-  publisher={IEEE}
-}
-'''
+
+  @article{shim2020active,  
+    title={Active Learning of Convolutional Neural Network for Cost-Effective Wafer Map Pattern Classification},   
+    author={Shim, Jaewoong and Kang, Seokho and Cho, Sungzoon},   
+    journal={IEEE Transactions on Semiconductor Manufacturing},   
+    volume={33},   
+    number={2},   
+    pages={258--266},   
+    year={2020},   
+    publisher={IEEE}   
+  }   
+
