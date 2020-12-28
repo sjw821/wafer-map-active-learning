@@ -4,8 +4,9 @@ This is the code for our paper:
 
 
 ## How to run it
-1. make the preprocessed data with read_data.py
-2. and you can start an experiment using run_topk_div_val.py
+1. get WM-811K dataset: https://www.kaggle.com/qingyi/wm811k-wafer-map
+2. make the preprocessed data with read_data.py
+3. you can start an experiment using run_topk_div_val.py
 
 ## Citation
 ```
